@@ -11,5 +11,10 @@ environment:
 
 dev_dependencies:
 
+  freezed: ^0.10.4
+  json_serializable: ^3.3.0
+  build_runner: ^1.8.1
 dependencies:  
   meta: ^1.1.8
+  json_annotation: ^3.0.1
+  freezed_annotation: ^0.7.1
